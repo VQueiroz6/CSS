@@ -1,0 +1,23 @@
+body{
+    background-image: url('images/mazdaRX7.jpg');
+}
+ul{
+    color: royalblue;
+}
+h1{
+    color: white;
+    font-size: 50px;
+    border-style: dotted;
+    border-color: white;
+    border-width: 4px; 
+}
+.carro1{
+    color: crimson;
+}
+.carro2{
+    color: yellow;
+}
+#exemplo p{
+    color: red;
+}
+/*#bloco{background-color: darkgreen}*/
